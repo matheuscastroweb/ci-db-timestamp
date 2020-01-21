@@ -1,0 +1,11 @@
+{
+    "name": "matheuscastroweb/ci-db-timestamp",
+    "description": "Bringing functionality from the future version of Codeigniter",
+    "authors": [
+        {
+            "name": "Matheus Castro",
+            "email": "matheuscastroweb@gmail.com"
+        }
+    ],
+    "require": {}
+}
