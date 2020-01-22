@@ -140,9 +140,8 @@ class Db_timestamp
      * 
      * @return bool
      */
-    public function delete($table = '', $data = NULL, $where = NULL)
+    public function delete($table = '', $where = NULL, $data = NULL)
     {
-
         $data += array(
             $this->delete . $this->_verify_suffix($table)  => date($this->format_time, time()),
         );
