@@ -161,6 +161,3 @@ class Db_timestamp
         return $this->config->item('suffix', 'db_timestamp') ?  '_' . $table : NULL;
     }
 }
-
-/* End of file Template.php */
-/* Location: ./system/application/libraries/Template.php */
