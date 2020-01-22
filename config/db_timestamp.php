@@ -37,7 +37,7 @@ $config['delete'] = 'deleted_on';
 | -------------------------------------------------------------------------
 | Sufix column is name table columns_suffix
 */
-$config['suffix'] = TRUE;
+$config['suffix'] = FALSE;
 
 /*
 | -------------------------------------------------------------------------
