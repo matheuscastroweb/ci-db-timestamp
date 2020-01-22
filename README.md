@@ -10,10 +10,10 @@
 
 | Function  | Status |
 | ------------- | ------------- |
-| ``insert()``  | ✔️ |
-| ``update()``  | ✔️ |
-| ``delete()``  | ✔️ |
-| ``select()``  | ❌ |
+| ``insert()``  | OK |
+| ``update()``  | OK |
+| ``delete()``  | OK |
+| ``select()``  | NOT YET |
 
 
 ## Installation:
